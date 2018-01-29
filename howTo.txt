@@ -1,0 +1,2 @@
+compile and run dhcpserver.c as a server in background (run with 2 parameter Address and Port)
+compile and run dhcpclient.c. Console will output the conversation between server and client.
