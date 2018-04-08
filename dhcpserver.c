@@ -1,4 +1,6 @@
-
+/*
+	Done by Nam Ho
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
